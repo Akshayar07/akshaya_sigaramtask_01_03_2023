@@ -1,4 +1,3 @@
-import 'package:akshaya_sigaramtask_01_03_2023/try.dart';
 import 'package:flutter/material.dart';
 
 void main() => runApp(MyApp());
