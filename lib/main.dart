@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Matrix Game',
-      home: game(),
+      home: Box(),
     );
   }
 }
